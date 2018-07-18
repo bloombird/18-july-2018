@@ -2,7 +2,7 @@
 
 ## Mac
 ```bash
-Library/Application Support/Firefox/Profiles
+~/Library/Application Support/Firefox/Profiles
 ```
 
 ## Windows
